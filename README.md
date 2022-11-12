@@ -48,9 +48,9 @@
 3. Mengapa penulisan badge harus sesuai aturan ?
    - Penulisan badge digunakan untuk melakukan identifikasi data pekerja, setiap pekerja memiliki 1 badge yang unik, jika penulisan tidak sesuai atau tidak sama maka data yang diinputkan akan dianggap data yang berbeda atau milik orang lain
 4. Bagaimana jika saya sudah terlanjur menuliskan badge yang tidak sesuai?
-   - Penulisan badge tidak perlu diubah, karena data yang diinputkan pada saat awal mengisi SPL dalam sistem dianggap sebagai data registrasi sehingga jika anda mengubah/membenarkan penulisan badge di pengajuan berikutnya akan dianggap data yang berbeda
+   - Penulisan badge **tidak perlu diubah** dipengajuan selanjutnya, karena data yang diinputkan pada saat awal mengisi SPL dalam sistem dianggap sebagai data registrasi sehingga jika Anda mencoba untuk mengubah/membenarkan penulisan badge di pengajuan berikutnya akan dianggap data yang berbeda
 5. Bagaimana saya mengetahui badge saya sudah teregister atau belum?
-   - Pada saat menginputkan data badge pada form, jika badge Anda sudah teregistrasi maka form unit/bagian kerja dan form nama akan terisi secara otomatis. Jika setelah Anda menginputkan badge namun form nama dan unit kerja tidak terisi otomatis artinya badge yang anda inputkan dianggap sebagai data badge baru (registrasi)
+   - Pada saat menginputkan data badge pada form pengajuan, jika badge Anda sudah teregistrasi maka kolom unit/bagian kerja dan kolom nama akan terisi secara otomatis. Jika setelah Anda menginputkan badge namun kolom nama dan unit kerja tidak terisi otomatis artinya badge yang Anda inputkan belum pernah teregistrasi sebelumnya.
 6. Bagaimana jika terjadi kekeliruan data dalam penulisan data pekerja (nama dan unit kerja)?
    - Anda hanya perlu mengubah data tersebut pada pengajuan SPL selanjutnya, data nama dan unit kerja yang telah ter-input sebelumnya akan diupdate secara otomatis
 7. Bagaimana jika terjadi kesalahan dalam melakukan input data lembur?
