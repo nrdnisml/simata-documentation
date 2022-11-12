@@ -47,7 +47,7 @@
    - bisa menghubungi kantor TA untuk meminta reset akun pada ekstensi yang terdapat pada halaman utama
 3. Mengapa penulisan badge harus sesuai aturan ?
    - Penulisan badge digunakan untuk melakukan identifikasi data pekerja, setiap pekerja memiliki 1 badge yang unik, jika penulisan tidak sesuai atau tidak sama maka data yang diinputkan akan dianggap data yang berbeda atau milik orang lain
-4. Bagaimana jika saya sudah terlanjut menuliskan badge yang tidak sesuai?
+4. Bagaimana jika saya sudah terlanjur menuliskan badge yang tidak sesuai?
    - Penulisan badge tidak perlu diubah, karena data yang diinputkan pada saat awal mengisi SPL dalam sistem dianggap sebagai data registrasi sehingga jika anda mengubah/membenarkan penulisan badge di pengajuan berikutnya akan dianggap data yang berbeda
 5. Bagaimana saya mengetahui badge saya sudah teregister atau belum?
    - Pada saat menginputkan data badge pada form, jika badge Anda sudah teregistrasi maka form unit/bagian kerja dan form nama akan terisi secara otomatis. Jika setelah Anda menginputkan badge namun form nama dan unit kerja tidak terisi otomatis artinya badge yang anda inputkan dianggap sebagai data badge baru (registrasi)
