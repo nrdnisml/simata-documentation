@@ -1,3 +1,3 @@
 # Klik tautan dibawah untuk melihat dokumentasi
 
-[docs.ta-pg.com](docs.ta-pg.com)
+[https://docs.ta-pg.com](docs.ta-pg.com)
